@@ -1,8 +1,9 @@
-def max_value(numbers):
+def min_value(numbers):
     """ This function returns the largest number
         in the list.
     """
-    return max(numbers)
+    #returned min value
+    return min(numbers)
 
 
 if __name__ == "__main__":
